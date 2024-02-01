@@ -1,0 +1,97 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(210, 207, 207);
+}
+.a{
+    background-color: white;
+    margin: 0.9em;
+    max-width: 1200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em 5em;
+}
+.lol{
+    text-align: center;
+    font-size: 40px;
+}
+
+.figp{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 100px;
+}
+
+.c{
+    border-top: 1px dashed gray;
+    margin-bottom: 40px;
+    border-bottom:1px dashed gray ;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.d{
+    background-color:rgb(210, 207, 207);
+    font-size: 20px;
+    text-align: left;
+    margin-top:0 ;
+    padding: 30px;
+    margin-bottom: 40px;
+    
+}
+.psilv{
+    font-family: Arial, Helvetica, sans-serif;
+      
+}
+.h2lol{
+    margin-left: 30px;
+}
+.e{
+    padding: 20px;
+    margin: auto;
+    border-top: 1px dashed gray;
+    border-bottom:1px dashed gray ;
+    font-size: 20px;
+} 
+
+.f{
+    background-color:rgb(210, 207, 207);
+    font-size: 20px;
+    text-align: left;
+    margin-top:0 ;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+.f-h2{
+    margin-left: 30px;
+}
+
+.f-p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
+
+.popl{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.g{
+    border-top: 1px dashed gray;
+    border-bottom: 1px dashed gray;
+
+}
+
+.g-p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.gh2{
+    
+    margin-bottom: 40px;
+    
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
+}
